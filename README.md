@@ -1,0 +1,1 @@
+This Notebook reproduces the analyses and figures from [Baribault et al. (2017)](https://www.pnas.org/content/pnas/115/11/2607.full.pdf) using R and Stan. The paper builds on the idea of radical randomization (i.e., many independent experimental variables) using data from subliminal priming experiments analyzed with hierarchical Bayesian modeling. 
